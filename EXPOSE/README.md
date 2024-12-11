@@ -1,0 +1,2 @@
+Expose instruction is useful to the users to know which image/container is running on which port and what is the protocal of that particular port like tcp/udp etc..
+EXPOSE 8080:80/tcp --here if you won'tmention any protocal like tcp by default consider it as tcp protocal. 
