@@ -1,0 +1,1 @@
+FROM instruction is like what is the base image that you are taking to create your own image its like selecting the OS for your image creation.
