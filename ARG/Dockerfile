@@ -1,2 +1,2 @@
-ARG VERSION
-FROM almalinux:${VERSION:8}
+ARG VERSION=8
+FROM almalinux:${VERSION}
