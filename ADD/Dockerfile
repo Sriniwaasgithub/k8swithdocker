@@ -1,2 +1,2 @@
 FROM almalinux
-ADD https://raw.githubusercontent.com/checkly/terraform-sample-advanced/refs/heads/master/main.tf /tmp
+ADD apache-tomcat-9.0.98-src.tar.gz /tmp/
