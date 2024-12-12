@@ -1,2 +1,4 @@
 ARG VERSION=8
 FROM almalinux:${VERSION}
+ARG GREETING
+
