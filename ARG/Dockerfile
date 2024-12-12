@@ -1,3 +1,2 @@
-ARG VERSION=8
+ARG VERSION
 FROM almalinux:${VERSION}
-RUN echo "Building with AlmaLinux version: ${VERSION}"
